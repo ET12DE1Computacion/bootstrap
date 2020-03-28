@@ -1,0 +1,25 @@
+HTML (contenido)
+que es un tags, atributo (id, clases), elementos
+tags principales head, body, title
+tags link y script
+comentarios
+
+del body:
+h1
+a
+b
+br
+p
+input
+button
+form
+div
+style
+
+CSS (presentacion)
+stick css externo, interno (en linea o en el head)
+clases
+comentarios
+propiedades (size % y px, color hexa, nombre, rgba) y valor (:)
+selector (multiples, class, por id)
+box model (content, padding, border, margin)
